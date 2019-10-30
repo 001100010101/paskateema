@@ -757,9 +757,9 @@ border: 1px solid #404040;
 
 
 #right.preferences form select {
-background-color: #fff !important;
-color: #222;
-border: 1px solid #404040;
+background-color: #000 !important;
+color: #ffffff;
+border: 1px solid #000000;
 }
 
 

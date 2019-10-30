@@ -49,7 +49,7 @@ display: none !important;
 body {
 background: #101010;
 color: #eee;
-font: 14px "Segoe UI","Open Sans",Roboto,-apple-system,BlinkMacSystemFont,Helvetica,sans-serif;
+font-family: "Segoe UI","Open Sans",Roboto,-apple-system,BlinkMacSystemFont,Helvetica,sans-serif;
 }
 
 

@@ -76,7 +76,15 @@ color: #eee;
 
 
 #sidebar h4 {
-color: #eee;
+color: #8f8f8f;
+margin: 0 0 10px 0;
+font-size: 1.25em;
+font-weight: 400;
+}
+
+
+#sidebar h4 a:hover {
+color: #17a45c;
 }
 
 
@@ -153,7 +161,14 @@ color: #eee;
 
 
 #sidebar {
-background: rgb(41, 41, 41);
+background-color: #292929;
+font-size: 0.9em;
+font: 13px "Segoe UI","Open Sans",Roboto,-apple-system,BlinkMacSystemFont,Helvetica,sans-serif;
+}
+
+
+#sidebar nav {
+line-height: 1.7em;
 }
 
 
@@ -163,7 +178,12 @@ color: #eee;
 
 
 #sidebar a:hover {
-color: #bebebe;
+color: #17a45c;
+}
+
+
+.navigationbar .navigatebar { 
+color: #5e5e5e;
 }
 
 

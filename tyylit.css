@@ -1,5 +1,5 @@
 /* Piilottaa turhat linkit sivupalkista */
-#sidebar a[href^="https://meemi.info"], a[href^="https://eurheilu.com"] {
+#sidebar a[href^="https://meemi.info"], a[href^="https://eurheilu.com"], a[href^="https://tv-opas.ylilauta.org"]  {
 display: none !important;
 }
 

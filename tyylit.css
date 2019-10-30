@@ -696,8 +696,14 @@ border-bottom: 1px solid #17a45c;
 
 
 #right.preferences #tabchooser li.cur {
-border: 1px solid #888;
-color: #0f0f0f;
+border: 1px solid #3c3c3c;
+color: #eee;
+background-color: #191919;
+}
+
+
+.preferences #tabchooser li {
+border-bottom: 1px solid #3c3c3c;
 }
 
 

@@ -169,7 +169,7 @@ color: #b35175;
 
 
 a:hover {
-color: #6b3046;;
+color: #6b3046;
 }
 
 
@@ -349,7 +349,7 @@ background-color: #303030;
 
 
 .tooltip .post a:hover,.tooltip .replies a:hover {
-color: #ba1f27;
+color: #b35175;
 }
 
 
@@ -369,7 +369,7 @@ color: #222;
 
 
 .tooltip .post a,.tooltip .replies a {
-color:#b35175;
+color: #b35175;
 }
 
 
@@ -450,7 +450,7 @@ background-color: #383837;
 
 
 .notification a:hover {
-color: #1ed075;
+color: #8f405d;
 }
 
 
@@ -635,7 +635,7 @@ color: #b35175;
 
 
 #right .threads .thread .post a:hover,#right .threads .thread .replies a:hover {
-color: #ba1f27;
+color: #8f405d;
 }
 
 
@@ -649,7 +649,7 @@ color: #323232;
 
 
 #right .threads .thread .filecontainer figcaption a:hover {
-color: #1ed075;
+color: #8f405d;
 }
 
 
@@ -788,7 +788,7 @@ background-color: #2c2c2c;
 }
 
 .postcontent a:hover, a.ref:hover {
-color: #1ed075;
+color: #8f405d;
 }
 
 

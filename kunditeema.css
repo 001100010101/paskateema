@@ -544,12 +544,12 @@ color: #fff !important;
 
 
 #right.preferences form input[type="submit"]:hover {
-background-color: #1ed075 !important;
-border-color: #1ed075 !important;
-border-right: 1px solid #1ed075;
-border-bottom: 1px solid #1ed075;
-border-top: 1px solid #1ed075;
-border-left: 1px solid #1ed075;
+background-color: #8f405d !important;
+border-color: #8f405d !important;
+border-right: 1px solid #8f405d;
+border-bottom: 1px solid #8f405d;
+border-top: 1px solid #8f405d;
+border-left: 1px solid #8f405d;
 color: #fff !important;
 }
 
